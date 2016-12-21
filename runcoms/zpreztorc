@@ -32,8 +32,12 @@ zstyle ':prezto:load' pmodule \
   'spectrum' \
   'utility' \
   'completion' \
-  'prompt'
-
+  'prompt' \
+  'command-not-found' \
+  'directory' \
+  'fasd' \
+  'git' \
+  'gpg'
 #
 # Autosuggestions
 #
