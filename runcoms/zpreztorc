@@ -37,7 +37,8 @@ zstyle ':prezto:load' pmodule \
   'directory' \
   'fasd' \
   'git' \
-  'gpg'
+  'gpg' \
+  'ssh'
 #
 # Autosuggestions
 #
