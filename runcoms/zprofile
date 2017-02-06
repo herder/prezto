@@ -48,6 +48,7 @@ path=(
   $HOME/.cargo/bin  
   $path
   $HOME/.sch/bin
+  $HOME/.jenv/bin
 )
 
 #
