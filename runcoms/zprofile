@@ -45,10 +45,11 @@ typeset -gU cdpath fpath mailpath path
 path=(
   /usr/local/{bin,sbin}
   $HOME/bin
-  $HOME/.cargo/bin  
+  $HOME/.cargo/bin
   $path
   $HOME/.sch/bin
   $HOME/.jenv/bin
+  $HOME/bin/istio/bin
 )
 
 #
